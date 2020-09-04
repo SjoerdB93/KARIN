@@ -1,2 +1,4 @@
 # KARIN
 Analysis tool for reflectivity data
+THIS EARLY PROTOTYPE IS ABANDONED, CHECK MY GITLAB INSTEAD FOR THE LATEST (NON-ABANDONED) VERSION.
+https://gitlab.com/SjoerdB93/karin
